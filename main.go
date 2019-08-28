@@ -4,7 +4,7 @@ import (
 	"bytes"
 	// colly was edited to emulate browser activity, to circumvent bot-preventing captcha.
 	// original repo @ https://github.com/gocolly/colly
-	"dianping/colly"
+	"DianpingLikeBot/colly"
 	mapset "github.com/deckarep/golang-set"
 	"log"
 	"net/http"
